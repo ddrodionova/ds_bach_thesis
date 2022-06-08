@@ -4,7 +4,7 @@ In recent years, due to the development of deep learning techniques, the field o
 
 This repository contains code for my Bachelor Thesis at NRU HSE.
 
-The goal of this thesis is to explore different dialogue features to determine what is characterized as good interaction between the bot and the user
+The goal of this thesis is to explore different dialogue features to determine what is characterized as good interaction between the bot and the user. Thus, three analytical tasks were in order:
 
 1. Calculate or extract dialogue features that can potentially provide information about dialogue rating.
 2. Explore the possible correlation between dialogue features and users’ ratings using correlation analysis.
